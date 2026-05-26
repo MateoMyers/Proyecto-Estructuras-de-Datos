@@ -1,6 +1,6 @@
 # Proyecto-Estructuras-de-Datos
 Repositorio del proyecto final de Estructuras de Datos 2026-1
-# Sistema de Gestión de Empleados — Versión 2
+# Sistema de Gestión de Empleados — Versión 3
 **Proyecto de Estructuras de Datos · Tercer Semestre**
 
 ---
